@@ -6,10 +6,10 @@ public class TemperatureUtilities {
     public void printMenu(){
         System.out.println("________________________________________________________");
         System.out.println("|_______________________ Menu __________________________|");
-        System.out.println("| Option 1 - CELSIUS                                     |");
-        System.out.println("| Option 2 - FAHRENHEIT                                  |");
-        System.out.println("| Option 3 - KELVIN                                      |");
-        System.out.println("| Option 0 - Exit                                        |");
+        System.out.println("| Option 1 - CELSIUS                                    |");
+        System.out.println("| Option 2 - FAHRENHEIT                                 |");
+        System.out.println("| Option 3 - KELVIN                                     |");
+        System.out.println("| Option 0 - Exit                                       |");
         System.out.println("|_______________________________________________________|");
     }
 
